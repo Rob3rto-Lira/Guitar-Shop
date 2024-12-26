@@ -168,7 +168,7 @@ body {
     justify-content: flex-end;
   }
   .main-grid {
-    grid-template-columns: auto auto;
+    grid-template-columns: auto;
   }
 }
 
